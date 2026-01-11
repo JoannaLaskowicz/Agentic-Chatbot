@@ -1,4 +1,4 @@
-from src.langgraphagenticai.state.state import
+from src.langgraphagenticai.state.state import State
 
 class BasicChatbotNode:
     """
